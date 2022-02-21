@@ -1,2 +1,8 @@
 settings-win.data.microsoft.com
+v20.events.data.microsoft.com
+#
 userpresence.xboxlive.com
+licensing.mp.microsoft.com
+leaderboards.xboxlive.com
+xsts.auth.xboxlive.com
+instance.mgt.xboxlive.com
