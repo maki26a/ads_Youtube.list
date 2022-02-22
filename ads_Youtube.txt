@@ -16,3 +16,5 @@ rr3.sn-f5f7kn7z.googlevideo.com
 rr1---sn-f5f7lnee.googlevideo.com
 rr1.sn-f5f7lnee.googlevideo.com
 safebrowsing.googleapis.com
+yt3.ggpht.com
+i.ytimg.com
