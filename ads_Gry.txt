@@ -1,8 +1,14 @@
 settings-win.data.microsoft.com
 v20.events.data.microsoft.com
+settings-win.data.microsoft.com
 #
 userpresence.xboxlive.com
 licensing.mp.microsoft.com
 leaderboards.xboxlive.com
 xsts.auth.xboxlive.com
 instance.mgt.xboxlive.com
+privacy.xboxlive.com
+#
+ip-data-service-prod.ak.epicgames.com
+ak.epicgames.com.edgekey.net
+e15203.dscb.akamaiedge.net
