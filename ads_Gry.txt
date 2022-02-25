@@ -24,6 +24,7 @@ ak.epicgames.com.edgekey.net
 e15203.dscb.akamaiedge.net
 lightswitch-public-service-prod.ol.epicgames.com
 account-public-service-prod.ol.epicgames.com
+fortnite-public-service-prod.ak.epicgames.com
 ec273b8c-0116-1730-9c25-826349a100ab-eu-central-1.rtcp.on.epicgames.com
 datarouter.ol.epicgames.com
 party-service-prod.ol.epicgames.com
