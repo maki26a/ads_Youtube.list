@@ -33,6 +33,7 @@ fortnitecontent-website-prod07.ol.epicgames.com
 ec2e870a-f5dc-c335-9a54-061251b38d10-eu-central-1.rtcp.on.epicgames.com
 statsproxy-public-service-live.ol.epicgames.com
 account-public-service-prod.ol.epicgames.com
+account-public-service-prod.ak.epicgames.com
 friends-public-service-prod.ol.epicgames.com
 #
 badges.roblox.com
