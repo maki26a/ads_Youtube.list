@@ -19,7 +19,6 @@ titlestorage.xboxlive.com
 achievements.xboxlive.com
 #
 api.epicgames.dev
-
 ip-data-service-prod.ak.epicgames.com
 ak.epicgames.com.edgekey.net
 e15203.dscb.akamaiedge.net
