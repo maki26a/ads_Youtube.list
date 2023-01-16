@@ -4,3 +4,4 @@ google-analytics.com
 mreg.hit.gemius.pl
 ls.hit.gemius.pl
 api.spoldzielnia.nsaudience.pl
+jscdn.yieldbird.com
