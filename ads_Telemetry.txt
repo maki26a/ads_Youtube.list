@@ -7,3 +7,4 @@ api.spoldzielnia.nsaudience.pl
 jscdn.yieldbird.com
 d-art.ppstatic.pl
 gstatic.com
+footprints-pa.googleapis.com
