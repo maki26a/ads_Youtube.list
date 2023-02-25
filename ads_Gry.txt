@@ -35,9 +35,13 @@ www.xboxab.com
 notificationinbox.xboxlive.com
 titlestorage.xboxlive.com
 achievements.xboxlive.com
+peoplehub.xboxlive.com
+clubhub.xboxlive.com
 #
 account-public-service-prod.ak.epicgames.com
 account-public-service-prod.ol.epicgames.com
+content-service.bfda.live.use1a.on.epicgames.com
+events-public-service-live.ak.epicgames.com
 ak.epicgames.com.edgekey.net
 api.epicgames.dev
 cdn-0001.qstv.on.epicgames.com
