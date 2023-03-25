@@ -70,6 +70,9 @@ signaling-service-prod.euc1.live.rtcp.on.epicgames.com
 signaling-service-prod.euw3.live.rtcp.on.epicgames.com
 statsproxy-public-service-live.ol.epicgames.com
 tag-management-public-service-prod.identity.live.on.epicgames.com
+fortnitecontent-website-prod07.ol.epicgames.com
+party-service-prod.ak.epicgames.com
+party-service-prod.social.live.on.epicgames.com
 #
 badges.roblox.com
 gold.roblox.com
