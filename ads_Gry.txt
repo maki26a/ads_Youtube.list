@@ -1,5 +1,6 @@
 activity.windows.com
 ctldl.windowsupdate.com
+catalog.gamepass.com
 settings-win.data.microsoft.com
 slscr.update.microsoft.com
 v10.events.data.microsoft.com
@@ -37,6 +38,7 @@ titlestorage.xboxlive.com
 achievements.xboxlive.com
 peoplehub.xboxlive.com
 clubhub.xboxlive.com
+xbox-guide-public.rec.mp.microsoft.com
 #
 account-public-service-prod.ak.epicgames.com
 account-public-service-prod.ol.epicgames.com
@@ -47,6 +49,8 @@ api.epicgames.dev
 cdn-0001.qstv.on.epicgames.com
 cdn2.unrealengine.com
 data-asset-directory-public-service-prod.ol.epicgames.com
+datastorage-public-service-live.ol.epicgames.com
+cdn-live.prm.ol.epicgames.com
 datarouter.ol.epicgames.com
 datarouter-prod.ak.epicgames.com
 e15203.dscb.akamaiedge.net
@@ -55,12 +59,14 @@ ec2e870a-f5dc-c335-9a54-061251b38d10-eu-central-1.rtcp.on.epicgames.com
 events-public-service-live.ol.epicgames.com
 fn-service-discovery-live-public.ogs.live.on.epicgames.com
 fortnitecontent-website-prod07.ol.epicgames.com
+fortnitecontent-website-prod.ak.epicgames.com
 fortnite-island-screenshots-live-cdn.ol.epicgames.com
 fortnite-matchmaking-public-service-live-eu.ol.epicgames.com
 fortnite-public-service-prod.ak.epicgames.com
 fortnite-public-service-prod11.ol.epicgames.com
 friends-public-service-prod.ol.epicgames.com
 ip-data-service-prod.ak.epicgames.com
+ip-data-service-prod.ol.epicgames.com
 lightswitch-public-service-prod.ol.epicgames.com
 lightswitch-public-service-prod.ol.epicgames.com
 links-public-service-live.ol.epicgames.com
