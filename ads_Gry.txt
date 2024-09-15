@@ -1,6 +1,7 @@
 activity.windows.com
 ctldl.windowsupdate.com
 catalog.gamepass.com
+cxcs.microsoft.net
 settings-win.data.microsoft.com
 slscr.update.microsoft.com
 v10.events.data.microsoft.com
@@ -11,6 +12,7 @@ collections.md.mp.microsoft.com
 client.wns.windows.com
 ipv6.msftconnecttest.com
 www.msftconnecttest.com
+licensing.mp.microsoft.com
 login.live.com
 login.msa.msidentity.com
 www.tm.lg.prod.aadmsa.trafficmanager.net
@@ -20,11 +22,15 @@ in.appcenter.ms
 dns.msftncsi.com
 ocsp.msocsp.com
 ris.api.iris.microsoft.com
+xbox-guide-public.rec.mp.microsoft.com
+storeedgefd.dsx.mp.microsoft.com
+store-images.microsoft.com
 #
+da.xboxservices.com
 update.xboxlive.com
+images-eds-ssl.xboxlive.com
 instance.mgt.xboxlive.com
 userpresence.xboxlive.com
-licensing.mp.microsoft.com
 leaderboards.xboxlive.com
 xsts.auth.xboxlive.com
 instance.mgt.xboxlive.com
@@ -39,7 +45,6 @@ titlestorage.xboxlive.com
 achievements.xboxlive.com
 peoplehub.xboxlive.com
 clubhub.xboxlive.com
-xbox-guide-public.rec.mp.microsoft.com
 sessiondirectory.xboxlive.com
 #
 account-public-service-prod.ak.epicgames.com
