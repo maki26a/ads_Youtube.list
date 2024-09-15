@@ -19,6 +19,7 @@ substrate.office.com
 in.appcenter.ms
 dns.msftncsi.com
 ocsp.msocsp.com
+ris.api.iris.microsoft.com
 #
 update.xboxlive.com
 instance.mgt.xboxlive.com
@@ -106,4 +107,5 @@ t2.rbxcdn.com
 t6.rbxcdn.com
 t7.rbxcdn.com
 tr.rbxcdn.com
-
+#
+avatars.steamstatic.com
